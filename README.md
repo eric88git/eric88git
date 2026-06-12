@@ -23,15 +23,17 @@ previsível e sustentável.
 ### 🧰 Stack & Ferramentas
 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-0A9E49?style=flat)
 ![Kanban](https://img.shields.io/badge/-Kanban-1E90FF?style=flat)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![TOTVS Protheus](https://img.shields.io/badge/-TOTVS%20Protheus-FF6600?style=flat)
+![Microsoft Project](https://img.shields.io/badge/-MS%20Project-217346?style=flat&logo=microsoftproject&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-009848?style=flat&logo=qlik&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ITIL](https://img.shields.io/badge/-ITIL-FF6F00?style=flat)
 ![ERP](https://img.shields.io/badge/-ERP-6C3AFA?style=flat)
-
----
 
 ### 📚 Em formação (2026)
 
