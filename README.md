@@ -4,7 +4,6 @@
 Gerente de Sistemas & Delivery | Portfólios de R$ 200M+ | Transformação Digital · ERP · IA Aplicada
 </p>
 
----
 
 ### 🚀 Sobre mim
 
