@@ -5,7 +5,7 @@ Gerente de Sistemas & Delivery | Portfólios de R$ 200M+ | Transformação Digit
 </p>
 
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
 Sou um profissional de Tecnologia e Operações com ~18 anos de experiência em 
 gestão de projetos/portfólios, implantações de ERP, transformação digital, 
